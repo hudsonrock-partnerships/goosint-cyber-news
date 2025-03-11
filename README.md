@@ -35,6 +35,7 @@ _Stay updated with the latest cybersecurity trends, threats, and expert insights
 - [Security Week](https://www.securityweek.com/) - Latest cybersecurity news, threats, and expert insights.  
 - [CSO Online](https://www.csoonline.com/) - Cybersecurity trends, practices, and product news.  
 - [ZATAZ (FR)](https://www.zataz.com/) - Popular French blog specialized in cyber intelligence and cybersecurity-related news ([RSS](https://www.zataz.com/rss/zataz-news.rss)).
+- [Infostealers by Hudson Rock](https://www.infostealers.com/) - All around hub related to latest news and publication about the Infostealer malware ([RSS](https://www.infostealers.com/learn-info-stealers/feed)).
 
 ## [↑](#table-of-contents) Cybersecurity Blogs
 _Expert insights, industry trends, and educational resources on cybersecurity._  
